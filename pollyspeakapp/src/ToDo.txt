@@ -1,3 +1,6 @@
 - Create a simple animation of three white lines moving out from the Speak on the homepage, to illustrate sound.
 
 - Login Page > Dashboard: Profiles for parrots, including Training Tracker, and link to each Parrot's 'SqwarkBoard'
+
+- Create Login Page: https://www.digitalocean.com/community/tutorials/how-to-add-login-authentication-to-react-applications
+
