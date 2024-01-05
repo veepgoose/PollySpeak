@@ -1,8 +1,13 @@
 import './SqwarkBoard.css';
-import { Link } from 'react-router-dom';
+import logo from '../../Assets/PollySpeakLogo.png';
+
 
 const SqwarkBoard = () => {
-    
+    return (
+        <div className= "SqwarkBoard-Header">
+            <img src={logo} className="Polly-logo" alt="logo" />
+        </div>
+    )
 }
 
 export default SqwarkBoard;

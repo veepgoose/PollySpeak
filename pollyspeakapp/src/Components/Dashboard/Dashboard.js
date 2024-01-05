@@ -12,19 +12,19 @@ const Dashboard = () => {
 
         <div className="Dashboard-body">
             <div className="Profile1">
-            <Link to="SqwarkBoard">
+            <Link to="/SqwarkBoard">
             <img src={ParrotIcon} className="Parrot-Icon" alt="logo" />
             </Link>
             <h1 className="ProfileName">YOSHI</h1>
             </div>
              <div className="Profile1">
-            <Link to="SqwarkBoard">
+            <Link to="/SqwarkBoard">
             <img src={ParrotIcon} className="Parrot-Icon" alt="logo" />
             </Link>
             <h1 className="ProfileName">BUZZ</h1>
             </div>
             <div className="Profile1">
-            <Link to="SqwarkBoard">
+            <Link to="/SqwarkBoard">
             <img src={ParrotIcon} className="Parrot-Icon" alt="logo" />
             </Link>
             <h1 className="ProfileName">OSCAR</h1>
