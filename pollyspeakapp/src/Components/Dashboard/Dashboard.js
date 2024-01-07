@@ -7,7 +7,7 @@ import ParrotIcon from '../../Assets/ParrotIcon.png';
 const Dashboard = () => {
     return(
         <div className="Dashboard-Header">
-        <img src={logo} className="Dashboard-logo" alt="logo" />
+        <a href="/"><img src={logo} alt="PollySpeak Logo" className="Dashboard-logo"/></a>
         <h1 className="SqwarkBoards">SQWARKBOARDS</h1>
 
         <div className="Dashboard-body">
