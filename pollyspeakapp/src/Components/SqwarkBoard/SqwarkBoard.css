@@ -13,3 +13,28 @@ body {
     height: auto;
     margin-top: 50px;
 }
+
+.SqwarkBoard {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
+
+}
+.Sqwark-Button {
+   
+    width: 200px;
+    height: 200px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+    color: #39A0ED;
+    font-weight: bold;
+}
